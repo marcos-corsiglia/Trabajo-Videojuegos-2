@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|d:\\facultad y estudios\\videojuegos 2\\trabajo-videojuegos-2-main\\assets\\scripts\\enemiesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemiesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\assets\\scripts\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemiesUI.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\EnemiesUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemiesUI.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\EnemiesUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemiesUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:24:47.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerUI.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:24:45.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
