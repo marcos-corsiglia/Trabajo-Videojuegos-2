@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|d:\\facultad y estudios\\videojuegos 2\\trabajo videojuegos 2\\assets\\scripts\\portalbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|d:\\facultad y estudios\\videojuegos 2\\trabajo videojuegos 2\\assets\\scripts\\colourfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colourfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\assets\\scripts\\menuselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7645E-DD07-1913-2528-714097E693B4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortalBehaviour.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\PortalBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PortalBehaviour.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\PortalBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PortalBehaviour.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwD0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:33:30.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColourFilter.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\ColourFilter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColourFilter.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\ColourFilter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColourFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:53:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuSelector.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\MenuSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuSelector.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\MenuSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:11:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombat.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCombat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:19:05.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBehavior.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo Videojuegos 2\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:18:43.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

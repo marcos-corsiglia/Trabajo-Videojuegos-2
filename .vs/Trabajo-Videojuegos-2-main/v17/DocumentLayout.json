@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|d:\\facultad y estudios\\videojuegos 2\\trabajo-videojuegos-2-main\\assets\\scripts\\playerbossui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerbossui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|d:\\facultad y estudios\\videojuegos 2\\trabajo-videojuegos-2-main\\assets\\scripts\\bossui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|d:\\facultad y estudios\\videojuegos 2\\trabajo-videojuegos-2-main\\assets\\scripts\\bossfireattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossfireattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\assets\\scripts\\bossfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\assets\\scripts\\playercombatboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercombatboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\assets\\scripts\\portalbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5632DACC-27A1-8D58-FA7F-73DC90F2A53E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerBossUI.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PlayerBossUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerBossUI.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PlayerBossUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerBossUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:54:16.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BossUI.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\BossUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossUI.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\BossUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:50:51.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BossFireAttack.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\BossFireAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossFireAttack.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\BossFireAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossFireAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:31:55.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BossFire.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\BossFire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossFire.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\BossFire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossFire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:30:54.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortalBehaviour.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PortalBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PortalBehaviour.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PortalBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PortalBehaviour.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:13:03.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyBehavior.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\EnemyBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBehavior.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:00:47.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCombatBoss.cs",
+              "DocumentMoniker": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PlayerCombatBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombatBoss.cs",
+              "ToolTip": "D:\\Facultad y estudios\\Videojuegos 2\\Trabajo-Videojuegos-2-main\\Assets\\Scripts\\PlayerCombatBoss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCombatBoss.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAASwE0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:01:49.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
